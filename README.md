@@ -15,7 +15,7 @@ $ apt install python2
 $ apt update 
 ```
 ```
-$ git clone https://https://github.com/micho101
+$ https://github.com/micho101/Gmailbrutepassword
 ```
 ```
 $ cd GmailHack 
