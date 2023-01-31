@@ -1,4 +1,4 @@
-# Gmail Hack by Micho101
+# Gmail Hack 
 
 This tool do Brute Force attack on your Given email 📧 account.
 Installation :
